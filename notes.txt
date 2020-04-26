@@ -1,0 +1,6 @@
+
+
+
+Microcontroller : NXP LPC11U35
+LED drivers     : SONIX SLED1734
+
